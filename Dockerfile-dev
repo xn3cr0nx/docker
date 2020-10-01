@@ -1,4 +1,4 @@
-ARG base_image=decidim/decidim:latest-test
+ARG base_image=xn3cr0nx/decidim:latest-test
 
 FROM $base_image
 LABEL maintainer="info@coditramuntana.com"
